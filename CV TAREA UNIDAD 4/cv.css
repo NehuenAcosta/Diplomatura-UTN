@@ -1,0 +1,39 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: rgb(162, 238, 238);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+body{
+    background-color: rgb(196, 241, 241);
+}
+
+.caja-zul{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: rgb(162, 238, 238);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.Datos{
+    font-weight: bold;
+}
+
+h4{
+    color: black;
+    
+
+}
+
