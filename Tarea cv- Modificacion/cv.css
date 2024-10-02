@@ -1,0 +1,63 @@
+h1{
+    font-family: "Crimson Text", serif;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.096);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    box-shadow: -5px 10px 15px rgb(61, 72, 83);
+
+}
+body{
+    background: linear-gradient(180deg, rgba(55,175,233,1) 22%, rgba(55,175,233,1) 33%, rgba(221,255,252,1) 78%);
+
+}
+
+.caja-zul{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.bueno{
+    background: linear-gradient(180deg, rgba(135,215,254,1) 0%, rgba(221,255,252,1) 0%);
+
+    width: 400px;
+    box-shadow: 20px 20px 5px rgb(144, 188, 218);
+    padding: 10px;
+    font-family: "Crimson Text", serif;
+
+    
+}
+
+h2{
+    font-family: "Crimson Text", serif;
+    color: rgb(88, 90, 92);
+    background-color: rgba(162, 238, 238, 0.342);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.Datos{
+    font-weight: bold;
+}
+
+.Datos p{
+    /* Aca Esta el link que lleva a la pagina con los datos */
+    font-size: large;
+    color: black;
+    
+
+}
+
+.otros p{
+    font-family: "Handlee", cursive;
+    column-count: 4;
+    column-width: 210px;
+    column-rule: solid black;
+    column-gap: 20px;
+    
+
+}
