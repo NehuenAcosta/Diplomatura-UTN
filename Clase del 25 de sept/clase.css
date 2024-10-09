@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    color: white;
+}
+
+div:hover{
+    background-color: black;
+    
+}
+
+span{
+    background-color: blueviolet;
+    color: black;
+    border: 1px;
+    padding: 10px;
+}
+
+span::after{
+    content: ' Este texto aparece delante';
+    background-color: white;
+
+}
